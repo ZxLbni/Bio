@@ -19,9 +19,9 @@ def run_flask():
     app_flask.run(host='0.0.0.0', port=5000)
 
 # User Client setup
-api_id = "12345678"  # Replace this api_id
-api_hash = "abcdefghijklm123456789"  # Replace this api_hash
-bot_token = "123456789:ABCDEFH-k6LrYjQJ7A28EocXY"  # Replace this with bot_token
+api_id = "22419004"  # Replace this api_id
+api_hash = "34982b52c4a83c2af3ce8f4fe12fe4e1"  # Replace this api_hash
+bot_token = "7495852928:AAEggc_q6cuYN0TArjcXvjk2J8DRXlU6C_s"  # Replace this with bot_token
 
 bot = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
